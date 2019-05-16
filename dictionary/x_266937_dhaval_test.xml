@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_computer" label="test" max_length="40" name="x_266937_dhaval_test" type="collection">
+        <element label="test" max_length="32" name="test" type="string"/>
+    </element>
+</database>
